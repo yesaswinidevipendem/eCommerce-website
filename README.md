@@ -59,13 +59,28 @@ Import the shopee.sql file into your MySQL database to create the tables. I have
 Start your web server.
 Access the Devocart website through your web browser.
 
-
 # EC2 instance
 Create an EC2 instance in your AWS Cloud account and deploy your ecommerce website.
-
+Follow these steps..
 #### Step-1 
-Search for EC2 in the search after signing in to AWS Cloud.
-#### Step-2
-Click on Launch Instance and select required OS and create the instance.
+Open Aws and log in to your free tier account and go to the console.
+#### step-2
+Search for EC2 and click on it.
 #### Step-3
-
+Click on Launch Instance and select required OS and create the instance.
+#### Step-4
+Create a key pair which will be used further.
+#### Step-5
+After setting security to ssh, http, and https you will launch the instance.
+Now your instance will start running.
+#### Step-6
+Open the instance and click on connect option, from there select RDP client.
+#### Step-7
+In the RDP client, download the remote desktop and click on get password.
+#### Step-8
+Upload the private key file you downloaded before and click on Decrypt Password.
+#### Step-9
+Copy the password given and open the remote desktop. Now paste the password and you can access the remote desktop.
+#### Step-10
+Install Chrome if needed and install Xampp. Copy paste your files/folder in the drive/xampp/htdocs folder.
+Run the Xampp panel and Use the public Ipv4 address to open the file in th browser.
