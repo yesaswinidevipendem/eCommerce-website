@@ -8,7 +8,7 @@ Devocart is developed using HTML, CSS and JS, also PHP and MySQL database for ba
 ### User authorization Features
  Users can create an account, login, and securely access their profile information.
  
- ![Screenshot 2024-03-19 101554](https://github.com/yesaswinidevipendem/eCommerce-website/assets/99169709/c5054629-c585-49cf-bd5b-bb92ef610f2c)
+ ![Screenshot 2024-03-19 101823](https://github.com/yesaswinidevipendem/eCommerce-website/assets/99169709/572b4cb5-e178-40ee-8942-60fbf81edf92)
 
 ![Screenshot 2024-03-19 101440](https://github.com/yesaswinidevipendem/eCommerce-website/assets/99169709/67fec5a5-3600-4d7c-9f00-934acadc74f5)
 
