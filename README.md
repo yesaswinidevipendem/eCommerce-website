@@ -3,15 +3,14 @@ Welcome to Devocart - an eCommerce store, a user influencive online shopee where
 ### About
 Devocart is developed using HTML, CSS and JS, also PHP and MySQL database for backend and validation. Devocart offers a seamless shopping experience for users to browse, purchase, and manage their orders and wishlisted items. This README file provides an overview of the website's features, installation guide, and usage instructions.
 
-![Screenshot 2024-03-18 123517](https://github.com/yesaswinidevipendem/eCommerce-website/assets/99169709/29f73ddc-b3d5-44a3-b39a-4386d82147fb)
+![Screenshot 2024-03-19 101504](https://github.com/yesaswinidevipendem/eCommerce-website/assets/99169709/5b085727-ac35-41d7-907e-d613a7ee0b97)
 
 ### User authorization Features
  Users can create an account, login, and securely access their profile information.
  
-![Screenshot 2024-03-18 125628](https://github.com/yesaswinidevipendem/eCommerce-website/assets/99169709/1cf31d69-0b41-4dcd-8b4e-c5f722f25a24)
+ ![Screenshot 2024-03-19 101554](https://github.com/yesaswinidevipendem/eCommerce-website/assets/99169709/c5054629-c585-49cf-bd5b-bb92ef610f2c)
 
-![Screenshot 2024-03-18 124944](https://github.com/yesaswinidevipendem/eCommerce-website/assets/99169709/fc79adef-6376-4482-abc2-d98d6cf0ab99)
-
+![Screenshot 2024-03-19 101440](https://github.com/yesaswinidevipendem/eCommerce-website/assets/99169709/67fec5a5-3600-4d7c-9f00-934acadc74f5)
 
 ### Product Catalog Display
 Devocart offers a wide range of products categorized into various brands and items for easy navigation. Users can view detailed descriptions, and add items to their cart and wishlist.
